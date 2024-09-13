@@ -1,0 +1,10 @@
+.navbar {
+    display: flex;
+    direction: rtl;
+}
+
+.bottom {
+    display: flex;
+    direction: ltr;
+    position: var(bottom);
+}
