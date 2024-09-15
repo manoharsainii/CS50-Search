@@ -125,19 +125,3 @@
             position: relative;
             display: flex;
         }
-        
-        .footer {
-            padding-top: 10px;
-            size: 100px;
-            height: 2px;
-        }
-        
-        .footer a,
-        .footer a:active,
-        .footer a:hover,
-        .footer a:visited {
-            text-decoration: none;
-            color: black;
-            margin: 10px;
-            height: 10px;
-        }
