@@ -127,9 +127,9 @@
         }
         
         .footer {
-            padding-top: 150px;
+            padding-top: 10px;
             size: 100px;
-            height: 10px;
+            height: 2px;
         }
         
         .footer a,
@@ -139,4 +139,5 @@
             text-decoration: none;
             color: black;
             margin: 10px;
+            height: 10px;
         }
